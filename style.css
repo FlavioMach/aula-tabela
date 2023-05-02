@@ -3,6 +3,7 @@ th {
     color: aliceblue;
 }
 
-.roupas {
+.roupas, .cor, .tamanho, .preco, .disponibilidade {
     background-color: blueviolet;
+    color: aliceblue;
 }
